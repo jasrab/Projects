@@ -1,7 +1,6 @@
 clc; clear;
 
 %Rudder Span & Chord Calculations
-
 ft_m = 0.3048;                  %feet to meter conversion
 U1 = ft_m*52.935;               %approach airspeed, m/s
 Vw = ft_m*8.4;                  %crosswind speed, m/s
