@@ -1,13 +1,19 @@
-# Finished-Projects
+# Finished Projects
 
-Rudder Dimensioning Project: October 2020
-  Project Description: Calculate rudder span & chord for RC plane using defined constants, XFLR5 airfoil parameters, and equations from textbook 
-  "Aircraft Design: A Systems Engineering Approach" Chapter 12 
-  (http://www.aero.us.es/adesign/Slides/Extra/Stability/Design_Control_Surface/Chapter%2012.%20Desig%20of%20Control%20Surfaces%20(Rudder).pdf).
+A repsitory consisting of all finished projects created by Jasmin Rabosto.
+  
 
-# Project Title
+### Rudder Dimensioning Project
 
-One Paragraph of project description goes here
+
+Project Description: Calculate rudder span & chord for RC plane using defined constants, XFLR5 airfoil parameters, and textbook equations.
+
+"Aircraft Design: A Systems Engineering Approach" Chapter 12:  http://www.aero.us.es/adesign/Slides/Extra/Stability/Design_Control_Surface/Chapter%2012.%20Desig%20of%20Control%20Surfaces%20(Rudder).pdf.
+
+```
+Project Date: October 2020
+Additional Contibutors: None
+```
 
 ## Getting Started
 
@@ -21,17 +27,3 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
