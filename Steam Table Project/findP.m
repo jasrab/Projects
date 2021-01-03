@@ -1,6 +1,6 @@
 function P = findP(T, i_p, n)
 
-%script searches Table A-6 Superheated Water for Pressure value 
+%function searches Table A-6 Superheated Water for Pressure value 
 %given user input for Temperature + additional thermodynamic property
 
 % T is Temperature
