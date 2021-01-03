@@ -13,7 +13,7 @@ Additional Contibutors: None
 
 ### Steam Table Project
 
-Project Description: System of scripts that finds thermodynamic state properties for a superheated vapor between 0.01MPa and 1.0MPa. Given user input of pressure OR temperature + one other property, the script determines the resulting temperature/pressure, specific volume, specific enthalpy, specific entropy, and specific internal energy.
+Project Description: System of scripts that finds thermodynamic state properties for a superheated vapor between 0.01MPa and 1.0MPa. Given user input of pressure OR temperature + one other property, the code determines resulting temperature/pressure, specific volume, specific enthalpy, specific entropy, and specific internal energy.
 
 ```
 Project Date: July 2020
