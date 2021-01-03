@@ -2,12 +2,23 @@
 
 A repository consisting of files and projects created by Jasmin Rabosto
 
+### Engine Cooling System Project
+
+Project Description: Arduino sketch for a model electric radiator fan. Its objective is to cool the main engine of a system, preventing it from overheating during operation.
+
+```
+Project Date: December 2020
+Language: C++
+Additional Contibutors: None
+```
+
 ### Rudder Dimensioning Project
 
 Project Description: Script that calculates rudder span & chord dimensions for RC plane using defined constants, XFLR5 airfoil parameters, and "Aircraft Design: A Systems Engineering Approach" textbook equations.
 
 ```
 Project Date: October 2020
+Language: MatLab
 Additional Contibutors: None
 ```
 
@@ -17,6 +28,7 @@ Project Description: System of scripts that finds thermodynamic state properties
 
 ```
 Project Date: July 2020
+Language: MatLab
 Additional Contibutors: Justin Forgas
 ```
 
