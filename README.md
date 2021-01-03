@@ -1,10 +1,12 @@
 # Finished Projects
 
-A repository consisting of files and projects created by Jasmin Rabosto
+Below is a chronoligical list of repository content outlining project details.
 
 ### Engine Cooling System Project
 
 Project Description: Arduino sketch for a model electric radiator fan. Its objective is to cool the main engine of a system, preventing it from overheating during operation.
+
+Project Description: Arduino Sketch, Schematic
 
 ```
 Project Date: December 2020
