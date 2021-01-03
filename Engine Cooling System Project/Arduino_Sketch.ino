@@ -113,6 +113,3 @@ if (manualStart == 1) {
 prevswitchState = switchState;
 delay(100);
 }
-
-
-  
