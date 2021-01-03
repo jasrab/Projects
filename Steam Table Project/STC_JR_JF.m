@@ -1,6 +1,6 @@
 clc; clear; 
 
-%Script commands FindP, Find T, and FindVal scripts to search for desired termodynamic properties based on user input.
+%Script applies user input, functions findP, findT, and findVal to determine thermodynamic properties for a superheated vapor.
 
 fprintf('Welcome! This program will help you find state properties for the analysis of a Thermodynamic system.\n\n');
 fprintf('Table A-6 Superheated Water\n\n');
