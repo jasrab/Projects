@@ -1,4 +1,8 @@
 function T = findT(P, i_p, n)
+
+%script searches Table A-6 Superheated Water for Pressure value 
+%given user input for Temperature + additional thermodynamic property
+
 % P is Pressure
 % i_p is the value of the other intensive property being used
 %the n argument is used to denote which property is being used in addition
