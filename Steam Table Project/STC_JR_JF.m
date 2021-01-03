@@ -1,4 +1,4 @@
-clc; clear;
+clc; clear; 
 
 fprintf('Welcome! This program will help you find state properties for the analysis of a Thermodynamic system.\n\n');
 fprintf('Table A-6 Superheated Water\n\n');
@@ -23,10 +23,10 @@ pressure = 'P';
 first_temp = strcmp(first_property, temp);
 first_pressure = strcmp(first_property, pressure);
 if first_temp == 1
-    T = input('What is the temperature in 캜? ');
+    T = input('What is the temperature in 째C? ');
     %check if temperature value is within acceptible range
     if (T>1300 || T<45.81)
-        error('%g캜 is outside the range of possible temperatures for a superheated vapor.', second_value);
+        error('%g째C is outside the range of possible temperatures for a superheated vapor.', second_value);
     end
 elseif first_pressure  == 1
          P = input('What is the pressure in MPa? ');
@@ -53,7 +53,7 @@ second_specinten= strcmp(second_property,specinten);
 
 %input second property value w/ correct units
 if second_temp == 1
-    T =input('What is the temperature in 캜? ');
+    T =input('What is the temperature in 째C? ');
 elseif second_specvol == 1
          v =input('What is the specific volume in m^3/kg? ');
 elseif second_specenthal == 1
@@ -70,7 +70,7 @@ end
 
 %check if second value is within acceptable range
 if second_temp == 1 && (T>1300 || T<45.81)
-        error('%g캜 is outside the range of possible temperatures for a superheated vapor.', second_value);
+        error('%g째C is outside the range of possible temperatures for a superheated vapor.', second_value);
 elseif second_specvol == 1 && (v>72.604 || v<0.19437)
         error('%gm^3/kg is outside the range of possible specific volumes for a superheated vapor.', second_value);
 elseif second_specenthal == 1 && (h<2583.9 || h>5413.4)
