@@ -1,4 +1,6 @@
-function [v u h s] = findVal(T, P)  %#ok<*NCOMMA>
+function [v u h s] = findVal(T, P)  
+
+%
 
 reference = ['v' 'u' 'h' 's'];
 vals = [0 0 0 0];
