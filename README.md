@@ -11,6 +11,18 @@ Language: MatLab
 Additional Contibutors: Justin Forgas
 ```
 #
+### Numerical Methods Analysis Project
+
+Project Description: Arduino sketch for a model electric radiator fan. Its objective is to cool the main engine of a system, preventing it from overheating during operation.
+
+Project Description: Arduino Sketch, Schematic
+
+```
+Project Date: December 2020
+Language: C++
+Additional Contibutors: None
+```
+#
 ### Rudder Dimensioning Project
 
 Project Description: Script that calculates rudder span & chord dimensions for RC plane using defined constants, XFLR5 airfoil parameters, and "Aircraft Design: A Systems Engineering Approach" textbook equations.
