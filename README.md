@@ -1,7 +1,7 @@
 # Finished Projects
 Below is a chronoligical list of repository content outlining project details.
  
-### Self-watering Planter Project
+### Self-watering Planter
 
 Project Description:
 
@@ -13,7 +13,7 @@ Language: C++
 Additional Contibutors: None
 ```
 #
-### MATLAB Project
+### MATLAB
 
 Project Description:
 
@@ -35,7 +35,7 @@ Language: MatLab
 Additional Contibutors: Justin Forgas
 ```
 #
-### Scilympiad Website Project
+### Scilympiad Website
 
 Project Description:
 
@@ -47,7 +47,7 @@ Language: HTML/CSS
 Additional Contibutors: Will Patrone
 ```
 #
-### Numerical Methods Analysis Project
+### Numerical Methods Analysis
 
 Project Description: Arduino sketch for a model electric radiator fan. Its objective is to cool the main engine of a system, preventing it from overheating during operation.
 
@@ -59,7 +59,7 @@ Language: MatLab
 Additional Contibutors: None
 ```
 #
-### Rudder Dimensioning Project
+### Rudder Dimensioning
 
 Project Description: Script that calculates rudder span & chord dimensions for RC plane using defined constants, XFLR5 airfoil parameters, and "Aircraft Design: A Systems Engineering Approach" textbook equations.
 
@@ -69,7 +69,7 @@ Language: MatLab
 Additional Contibutors: None
 ```
 #
-### Engine Cooling System Project
+### Engine Cooling System
 
 Project Description: Arduino sketch for a model electric radiator fan. Its objective is to cool the main engine of a system, preventing it from overheating during operation.
 
