@@ -11,13 +11,13 @@ Project Date: October 2020
 Additional Contibutors: None
 ```
 
-### Project
+### Steam Table Project
 
-Project Description:
+Project Description: 
 
 ```
 Project Date: 
-Additional Contibutors: None
+Additional Contibutors: Justin Forgas
 ```
 
 
