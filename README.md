@@ -25,16 +25,6 @@ Language: MatLab
 Additional Contibutors: None
 ```
 #
-### Steam Table Project
-
-Project Description: System of scripts that finds thermodynamic state properties for a superheated vapor between 0.01MPa and 1.0MPa. Given user input of pressure OR temperature + one other property, the code determines resulting temperature/pressure, specific volume, specific enthalpy, specific entropy, and specific internal energy.
-
-```
-Project Date: July 2020
-Language: MatLab
-Additional Contibutors: Justin Forgas
-```
-#
 ### Scilympiad Website
 
 Project Description:
@@ -45,6 +35,16 @@ Project Description:
 Project Date: June 2020
 Language: HTML/CSS
 Additional Contibutors: Will Patrone
+```
+#
+### Steam Table Project
+
+Project Description: System of scripts that finds thermodynamic state properties for a superheated vapor between 0.01MPa and 1.0MPa. Given user input of pressure OR temperature + one other property, the code determines resulting temperature/pressure, specific volume, specific enthalpy, specific entropy, and specific internal energy.
+
+```
+Project Date: July 2020
+Language: MatLab
+Additional Contibutors: Justin Forgas
 ```
 #
 ### Numerical Methods Analysis
