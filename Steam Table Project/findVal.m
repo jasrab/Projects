@@ -1,6 +1,7 @@
 function [v u h s] = findVal(T, P)  
 
-%
+%function searches Table A-6 Superheated Water for thermodynamic property values 
+%using constants T (Temperature) & P (Pressure)
 
 reference = ['v' 'u' 'h' 's'];
 vals = [0 0 0 0];
