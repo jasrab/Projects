@@ -1,7 +1,6 @@
 # Finished Projects
 
 Below is a chronoligical list of repository content outlining project details.
-
 #
 ### Steam Table Project
 
