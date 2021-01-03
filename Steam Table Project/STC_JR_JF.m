@@ -1,5 +1,7 @@
 clc; clear; 
 
+%Script commands FindP, Find T, and FindVal scripts to search for
+
 fprintf('Welcome! This program will help you find state properties for the analysis of a Thermodynamic system.\n\n');
 fprintf('Table A-6 Superheated Water\n\n');
 fprintf('Two properties must be known: Temperature(T) AND Pressure(P),\nOR\nTemperature(T) OR Pressure(P) AND\nspecific volume(v), specific internal energy(u), specific enthalpy(h), OR specific entropy(s)\n');
