@@ -1,6 +1,9 @@
 clc; clear;
 
 %Rudder Span & Chord Calculations
+%Equations from "Aircraft Design: A Systems Engineering Approach" Chapter 12
+%http://www.aero.us.es/adesign/Slides/Extra/Stability/Design_Control_Surface/Chapter%2012.%20Desig%20of%20Control%20Surfaces%20(Rudder).pdf.
+
 ft_m = 0.3048;                  %feet to meter conversion
 U1 = ft_m*52.935;               %approach airspeed, m/s
 Vw = ft_m*8.4;                  %crosswind speed, m/s
