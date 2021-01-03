@@ -152,7 +152,7 @@ if first_pressure == 1
     end
 end
 
-% display the rest of the properties
+% display rest of the properties
 fprintf('\nThe rest of the properties are:\n\n');
 answers= array2table(values, 'VariableNames',{values_string(1), values_string(2), values_string(3), values_string(4)});
 disp(answers);
