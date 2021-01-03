@@ -1,10 +1,8 @@
 # Finished Projects
 
-A repsitory consisting of all finished projects created by Jasmin Rabosto.
-  
+A repository consisting of files and projects created by Jasmin Rabosto
 
 ### Rudder Dimensioning Project
-
 
 Project Description: Calculate rudder span & chord for RC plane using defined constants, XFLR5 airfoil parameters, and textbook equations.
 
@@ -15,15 +13,13 @@ Project Date: October 2020
 Additional Contibutors: None
 ```
 
-## Getting Started
+### Project
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+Project Description:
 
 ```
-Give examples
+Project Date: 
+Additional Contibutors: None
 ```
+
 
