@@ -71,7 +71,7 @@ Additional Contibutors: None
 #
 ### Engine Cooling System
 
-Project Description: Arduino sketch for a model electric radiator fan. Its objective is to cool the main engine of a system, preventing it from overheating during operation.
+Project Description: Model electric radiator fan using. Its objective is to cool the main engine of a system, preventing it from overheating during operation. The Arduino sketch consists of two main sections: 
 
 Project Description: Arduino Sketch, Schematic
 
