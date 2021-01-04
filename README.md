@@ -1,45 +1,29 @@
 # Finished Projects
 Below is a chronoligical list of repository content outlining project details.
- 
-### Self-watering Planter
 
-Project Description:
+### Engine Cooling System
 
-Project Description:
+Project Description: Model electric radiator fan using Arduino. Its objective is to cool the main engine of a system, preventing it from overheating during operation. The Arduino sketch consists of two main sections: an Automated Cooling System loop and a Manual Overide Cooling System loop. The Automated loop uses input from the temperature sensor to determine fan on/off state and speed, resulting in a self regulating process. The Manual Override loop is activated by a switch button and uses user input from the potentiometer to determine fan speed. The operation LED lights and warning alarm are regulated by the temperature sensor. A circuit schematic is also included to accompany the Arduino sketch.   
 
 ```
-Project Date: May 2019
+Project Date: December 2020
 Language: C++
 Additional Contibutors: None
 ```
 #
-### MATLAB
+### Rudder Dimensioning
 
-Project Description:
-
-Project Description:
+Project Description: Rudder chord and span calculations. Its objective is to determine optimal rudder span & chord dimensions for an RC plane using defined constants, XFLR5 airfoil parameters, and equations from textbook "Aircraft Design: A Systems Engineering Approach".
 
 ```
-Project Date: May 2020
+Project Date: October 2020
 Language: MatLab
 Additional Contibutors: None
 ```
 #
-### Scilympiad Website
-
-Project Description:
-
-Project Description:
-
-```
-Project Date: June 2020
-Language: HTML/CSS
-Additional Contibutors: Will Patrone
-```
-#
 ### Steam Table Project
 
-Project Description: System of scripts that finds thermodynamic state properties for a superheated vapor between 0.01MPa and 1.0MPa. Given user input of pressure OR temperature + one other property, the code determines resulting temperature/pressure, specific volume, specific enthalpy, specific entropy, and specific internal energy.
+Project Description: Superheated vapor property calculator. Its objective is to determine the thermodynamic state properties for a superheated vapor between 0.01MPa and 1.0MPa. Given user input of pressure OR temperature + one other property, the code uses functions findT, findP, and findVal to search an Excel database to determine corresponding temperature/pressure, specific volume, specific enthalpy, specific entropy, and specific internal energy. If the user input is not part of the database, linear interpolation is used to calculate approximate property values. 
 
 ```
 Project Date: July 2020
@@ -49,9 +33,9 @@ Additional Contibutors: Justin Forgas
 #
 ### Numerical Methods Analysis
 
-Project Description: Arduino sketch for a model electric radiator fan. Its objective is to cool the main engine of a system, preventing it from overheating during operation.
+Project Description: 
 
-Project Description: Arduino Sketch, Schematic
+
 
 ```
 Project Date: July 2020
@@ -59,28 +43,29 @@ Language: MatLab
 Additional Contibutors: None
 ```
 #
-### Rudder Dimensioning
+### Scilympiad Website
 
-Project Description: Script that calculates rudder span & chord dimensions for RC plane using defined constants, XFLR5 airfoil parameters, and "Aircraft Design: A Systems Engineering Approach" textbook equations.
+Project Description: Rudimentary HTML/CSS project. Its ojective is to update the Florida Science Olympiad team registration site.  
+
 
 ```
-Project Date: October 2020
+Project Date: June 2020
+Language: HTML/CSS
+Additional Contibutors: None
+```
+#
+### MATLAB
+
+Project Description:
+
+
+
+```
+Project Date: May 2020
 Language: MatLab
 Additional Contibutors: None
 ```
-#
-### Engine Cooling System
 
-Project Description: Model electric radiator fan using. Its objective is to cool the main engine of a system, preventing it from overheating during operation. The Arduino sketch consists of two main sections: 
-
-Project Description: Arduino Sketch, Schematic
-
-```
-Project Date: December 2020
-Language: C++
-Additional Contibutors: None
-```
-#
 
 
 
