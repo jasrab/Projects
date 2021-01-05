@@ -31,9 +31,9 @@ Language: MatLab
 Additional Contibutors: Justin Forgas
 ```
 #
-### Numerical Methods Analysis
+### Numerical Analysis Algorithms
 
-Project Description: 
+Project Description: A collection of numerical analysis algorithms. Its objective is to provide useful approximations to complex problems using common numerical methods.   
 
 
 
