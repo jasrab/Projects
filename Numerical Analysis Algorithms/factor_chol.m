@@ -1,11 +1,11 @@
 function [U]= factor_chol(A)
  % Cholesky Factorization: Cholesky Factorization without pivot
- % [U] = Jasmin_Rabosto_chol(A)
+ % [U] = factor_chol(A)
  % input
  % A= symmetric coefficient matrix
  % output:
  % U = upper triangular factor such that U * U'== A
-
+ % created by Jasmin Rabosto
 [n, m]=size(A);
 if n~=m
     error('Matrix A must be symmetric');
