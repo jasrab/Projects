@@ -33,7 +33,7 @@ Additional Contibutors: Justin Forgas
 #
 ### Numerical Analysis Algorithms
 
-Project Description: A collection of numerical analysis algorithms. Its objective is to provide useful approximations to complex problems using common numerical methods.   
+Project Description: A collection of useful numerical analysis scripts. Its objective is to exercise the application of numerical methods for several matlab functions such as roots, eigen,  
 
 
 
