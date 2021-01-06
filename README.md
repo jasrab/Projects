@@ -33,7 +33,7 @@ Additional Contibutors: Justin Forgas
 #
 ### Numerical Analysis Algorithms
 
-Project Description: A collection of useful numerical analysis scripts. Its objective is to exercise the application of numerical methods for several matlab functions such as roots, eigen,  
+Project Description: A collection of useful numerical analysis scripts. Its objective is to exercise the application of numerical methods in place of several matlab functions such as roots, eig,  
 
 
 
