@@ -1,3 +1,4 @@
+ % created by Jasmin Rabosto
 function x = GaussEigen(A,b)
 % GaussEigen: Gauss elimination pivoting
 % x = GaussPivot(A,b): Gauss elimination with pivoting.
