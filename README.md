@@ -33,7 +33,7 @@ Additional Contibutors: Justin Forgas
 #
 ### Numerical Analysis Algorithms
 
-Project Description: A collection of useful numerical analysis scripts. Its objective is to exercise the application of numerical methods in place of several MatLab functions such as roots, eig, lu, chol, and integral. Each re-written MatLab function consists of two scripts: one for user input and the second containing the numerical algorithm.    
+Project Description: A collection of useful numerical analysis scripts. Its objective is to exercise the application of numerical methods by remaking several MatLab functions such as roots, eig, lu, chol, and integral. Each re-written MatLab function consists of two scripts: one for user input and the second containing the numerical algorithm.    
 
 ```
 Project Date: July 2020
