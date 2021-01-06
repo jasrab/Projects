@@ -1,4 +1,4 @@
-% Description: script that calculates root of function closest to initial guess 
+% Description: script that determines root of function closest to given initial guess 
 % using Newton-Raphson
 %
 % created by Jasmin Rabosto for the sole purpose of exercising numerical methods application.   
