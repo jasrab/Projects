@@ -28,5 +28,5 @@ df_sym= diff(func_sym);
 dfunc= matlabFunction(df_sym);
 es = 0.01; %set tolerance
 %Newton-Raphson
-[root, ea, iter] = newtraph(func, dfunc, x_initial, es);
+[root, ea, iter] = roots_newtraph(func, dfunc, x_initial, es);
 fprintf('\nroot = %g\nnumber of iterations = %g\n', root, iter);
