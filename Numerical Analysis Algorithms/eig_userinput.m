@@ -1,5 +1,4 @@
-%find eignenvalues and eigenvectors for homogenous linear system 
-%where A = 3x3 matrix 
+%find eignenvalues and eigenvectors for homogenous linear system where A = 3x3 matrix 
 
 clc; clear;
 %roots of det(A) cubic polynomial
