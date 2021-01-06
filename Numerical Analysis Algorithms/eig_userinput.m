@@ -1,4 +1,7 @@
-%find eignenvalues and eigenvectors for homogenous linear system where A = 3x3 matrix 
+%description: find eignenvalues and eigenvectors for homogenous linear system where A = 3x3 matrix
+
+%created by Jasmin Rabosto for the sole purpose of exercising numerical methods application.   
+% date: July 2020
 
 clc; clear;
 %roots of det(A) cubic polynomial
