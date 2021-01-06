@@ -1,4 +1,4 @@
-function [root, ea, iter] = roots_newtraph(func, dfunc, x_initial, es, maxiter, varargin);
+function [root, ea, iter] = roots_NewtRaph(func, dfunc, x_initial, es, maxiter, varargin);
 % newtraph.m : uses Newton-Raphson method to find the root of func
 % func = function
 % dfunc = derivative of function
