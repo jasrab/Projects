@@ -1,11 +1,12 @@
 function [L,U]= factor_lu(A)
  % LU Factorization without partial pivot
- % [L,U] = Jasmin_Rabosto_lu(A)
+ % [L,U] = factor_lu(A)
  % input:
  % A= symmetric coefficient matrix
  % output:
  % L= lower triangular factor such that L*U == A 
  % U = upper triangular factor such that L*U == A
+ % created by Jasmin Rabosto
 [n, m]=size(A);
 if n~=m
     error('Matrix A must be symmetric');
