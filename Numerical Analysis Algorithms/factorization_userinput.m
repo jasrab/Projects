@@ -1,6 +1,8 @@
-%description: Factorization of 3x3 matrix A and/or solution of 3x3 linear system using either: 
-%1)LU Factorization or 2)Cholesky Factorization without pivot
-%determine if just a matrix factorization or if a linear system problem
+% description: Factorization of 3x3 matrix A and/or solution of 3x3 linear system using either: 
+% 1)LU Factorization or 2)Cholesky Factorization without pivot
+% created by Jasmin Rabosto
+
+% determine if just a matrix factorization or if a linear system problem
 %determine what type of factorization user wants
 ans_type = input('Select number 1 or 2:\nDo you need to solve 1) a matrix factorization or 2) a linear system problem?: '); 
 if ans_type == 1
