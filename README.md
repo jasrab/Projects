@@ -41,29 +41,6 @@ Language: MatLab
 Additional Contibutors: None
 ```
 #
-### Scilympiad Website
-
-Project Description: Rudimentary HTML/CSS project. Its ojective is to update the Florida Science Olympiad team registration site.  
-
-
-```
-Project Date: June 2020
-Language: HTML/CSS
-Additional Contibutors: None
-```
-#
-### MATLAB
-
-Project Description:
-
-
-
-```
-Project Date: May 2020
-Language: MatLab
-Additional Contibutors: None
-```
-
 
 
 
